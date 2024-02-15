@@ -1,0 +1,3 @@
+pyntcli~=0.1.71
+pytest~=8.0.0
+requests~=2.31.0
